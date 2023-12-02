@@ -1,3 +1,4 @@
+#　初めてのゲーム開発
 import pygame
 from pygame import mixer
 import random
