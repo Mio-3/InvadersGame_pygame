@@ -16,7 +16,7 @@ Pythonのライブラリである「pygame」を使って、簡単なインベ�
 
 #### 参照した動画のYoutubeのURL:https://youtu.be/fAJ_BjLd3Ro?si=X8zrxiWPnneC9fiX
 
-## 動画以外に、自身で実装したもの：
+## 動画の内容以外に、自身で実装したもの：
 
 ・エイリアンの数を複数体現れるようにしたこと
 
